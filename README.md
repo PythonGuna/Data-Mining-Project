@@ -1,4 +1,3 @@
-# Data-Mining-Project
 # Garbage Image Classification
 
 This project involves classifying garbage images into various categories such as 'paper', 'glass', 'metal', 'trash', 'cardboard', and 'plastic'. The model was trained using the **TorchVision** module, leveraging deep learning techniques for image classification.
